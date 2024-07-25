@@ -1,4 +1,4 @@
-# provision.vue
+# vue
 
 ## Project setup
 ```
